@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['value_0',['value',['../structmg_1_1math_1_1detail_1_1static__product_3_4.html#a6a56b80634e90a13777dc2e706cb3e9d',1,'mg::math::detail::static_product&lt;&gt;::value'],['../structmg_1_1math_1_1detail_1_1static__product_3_01Head_00_01Tail_8_8_8_01_4.html#a60e78474742f3b25cd25b7d5b47b443b',1,'mg::math::detail::static_product&lt; Head, Tail... &gt;::value']]],
+  ['value_5ftype_1',['value_type',['../structmg_1_1math_1_1Vec.html#af57410d52097b27441afad49d72f9bc6',1,'mg::math::Vec::value_type'],['../structmg_1_1math_1_1Mat.html#aed947fdf0ee05483e57c54bd4151c3bb',1,'mg::math::Mat::value_type'],['../structmg_1_1math_1_1LUResult.html#a85e817810d16872c99bb27c516a8cd12',1,'mg::math::LUResult::value_type'],['../structmg_1_1math_1_1QRResult.html#a2386d296f966a76cbc919a39c4580944',1,'mg::math::QRResult::value_type'],['../structmg_1_1math_1_1PowerIterationResult.html#ac66fa8b61d09d91a6dcfd194c8a76447',1,'mg::math::PowerIterationResult::value_type'],['../structmg_1_1math_1_1Tensor.html#af0fc2487db8851b4a4d6b4b68e0705a8',1,'mg::math::Tensor::value_type']]],
+  ['values_2',['values',['../structmg_1_1math_1_1Vec.html#a374ce79d46b72476b23c4b6b0d29cbb4',1,'mg::math::Vec::values'],['../structmg_1_1math_1_1Mat.html#ae9af1288b120dd63a0e56a5521d90f4d',1,'mg::math::Mat::values'],['../structmg_1_1math_1_1Tensor.html#a955b9526cf2c092e611e3ba6fc679c15',1,'mg::math::Tensor::values']]],
+  ['vec_3',['vec',['../structmg_1_1math_1_1Vec.html',1,'mg::math::Vec&lt; T, N &gt;'],['../structmg_1_1math_1_1Vec.html#a09cc37bece50b09c837920455406d62c',1,'mg::math::Vec::Vec()=default'],['../structmg_1_1math_1_1Vec.html#a175c31a0ebed62ced340d4bc93eeab4d',1,'mg::math::Vec::Vec(const T &amp;fill_value)'],['../structmg_1_1math_1_1Vec.html#ac92b957f3e5f50ce4ca65d091911fc80',1,'mg::math::Vec::Vec(std::initializer_list&lt; T &gt; items)']]],
+  ['vec_3c_20value_5ftype_2c_20n_20_3e_4',['Vec&lt; value_type, N &gt;',['../structmg_1_1math_1_1Vec.html',1,'mg::math']]],
+  ['version_5fmajor_5',['version_major',['../namespacemg.html#aae4dbacbc5be8682e2c399dee81ae6ce',1,'mg']]],
+  ['version_5fminor_6',['version_minor',['../namespacemg.html#a747580e07865cd8ab6ac35be40428f99',1,'mg']]],
+  ['version_5fpatch_7',['version_patch',['../namespacemg.html#a0381f66a7463b621d317ad2bca8c99e3',1,'mg']]],
+  ['version_5fstring_8',['version_string',['../namespacemg.html#a3a8685d74cea76ec17e6a82a02670d61',1,'mg']]]
+];

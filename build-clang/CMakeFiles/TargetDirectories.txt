@@ -1,0 +1,5 @@
+/home/chi/repos/magercode/mglib/build-clang/CMakeFiles/mglib_tests.dir
+/home/chi/repos/magercode/mglib/build-clang/CMakeFiles/doc_doxygen.dir
+/home/chi/repos/magercode/mglib/build-clang/CMakeFiles/test.dir
+/home/chi/repos/magercode/mglib/build-clang/CMakeFiles/edit_cache.dir
+/home/chi/repos/magercode/mglib/build-clang/CMakeFiles/rebuild_cache.dir

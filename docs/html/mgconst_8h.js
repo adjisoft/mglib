@@ -1,0 +1,25 @@
+var mgconst_8h =
+[
+    [ "MG_COMPILER_CLANG", "mgconst_8h.html#a9556e773ab65907d1c7ec27ef8552db7", null ],
+    [ "MG_COMPILER_GCC", "mgconst_8h.html#aa3ac5654c3d61417635ca37ca93b49d5", null ],
+    [ "MG_COMPILER_MSVC", "mgconst_8h.html#a21424b2e25c4d19105ac80a9097df213", null ],
+    [ "MG_CONSTEXPR", "mgconst_8h.html#ac21282580c036c51f3547666fb4d9ef3", null ],
+    [ "MG_INLINE", "mgconst_8h.html#aedcec939ed95beb8a70dd86568464957", null ],
+    [ "MG_NODISCARD", "mgconst_8h.html#add0f4e5131c7e4d2d1b417293970e5ff", null ],
+    [ "MG_NOEXCEPT", "mgconst_8h.html#a52dc3276f234fc82424cfadd3bf28275", null ],
+    [ "MG_PLATFORM_LINUX", "mgconst_8h.html#ac003f28972182d610b27ff85d430344d", null ],
+    [ "MG_PLATFORM_MACOS", "mgconst_8h.html#a98a2ba454101557f6287353c5953a27b", null ],
+    [ "MG_PLATFORM_UNIX", "mgconst_8h.html#a716da82f2e97cf7287447befcbea9ed1", null ],
+    [ "MG_PLATFORM_WINDOWS", "mgconst_8h.html#aa5086f9de0e346513a22b84cecc8efa2", null ],
+    [ "MGLIB_VERSION_MAJOR", "mgconst_8h.html#a1aa47f718691d7a7af864dc3488443f2", null ],
+    [ "MGLIB_VERSION_MINOR", "mgconst_8h.html#ae3b26fcac29fb428997b8139d22a5470", null ],
+    [ "MGLIB_VERSION_PATCH", "mgconst_8h.html#a695bdb8553fc148c6d6f02de49c2c7ef", null ],
+    [ "e_v", "mgconst_8h.html#ad3b1fd476cfa0d6a9c93a74a2edec24b", null ],
+    [ "epsilon_v", "mgconst_8h.html#a002da9bc10aee5bc99e1624cc62adeff", null ],
+    [ "pi_v", "mgconst_8h.html#ab412ad81eefee14f0988d88524a05bc1", null ],
+    [ "tau_v", "mgconst_8h.html#a143d325e69b1856a82644a0f66cc1230", null ],
+    [ "version_major", "mgconst_8h.html#aae4dbacbc5be8682e2c399dee81ae6ce", null ],
+    [ "version_minor", "mgconst_8h.html#a747580e07865cd8ab6ac35be40428f99", null ],
+    [ "version_patch", "mgconst_8h.html#a0381f66a7463b621d317ad2bca8c99e3", null ],
+    [ "version_string", "mgconst_8h.html#a3a8685d74cea76ec17e6a82a02670d61", null ]
+];

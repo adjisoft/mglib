@@ -1,0 +1,1 @@
+/usr/bin/clang++ -Xlinker --dependency-file=CMakeFiles/mglib_tests.dir/link.d CMakeFiles/mglib_tests.dir/tests.cc.o -o mglib_tests
