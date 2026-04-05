@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/chi/repos/magercode/mglib/build-clang/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

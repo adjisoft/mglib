@@ -1,5 +1,0 @@
-/home/chi/repos/magercode/mglib/build-gcc/CMakeFiles/mglib_tests.dir
-/home/chi/repos/magercode/mglib/build-gcc/CMakeFiles/doc_doxygen.dir
-/home/chi/repos/magercode/mglib/build-gcc/CMakeFiles/test.dir
-/home/chi/repos/magercode/mglib/build-gcc/CMakeFiles/edit_cache.dir
-/home/chi/repos/magercode/mglib/build-gcc/CMakeFiles/rebuild_cache.dir
